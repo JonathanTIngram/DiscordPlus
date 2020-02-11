@@ -20,7 +20,8 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 import com.mongodb.client.MongoDatabase;
 
-public class MongoDB {
+public class MongoDB
+{
 
     private String uri;
     private MongoClientURI clientURI;
@@ -73,7 +74,7 @@ public class MongoDB {
     }
 
     /*
-     * @return
+     * Gets the connection string URI.
      *
      * @see
      *
