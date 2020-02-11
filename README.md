@@ -14,6 +14,11 @@ ___
 
 Looking to get support for something? Join the Discord above to get help and discuss with others!
 
+### DVINITY
+___
+
+Well, hello! We are a small team of developers working on epic projects to help make other software engineers lives easier and more enjoyable by developing high-grade Frameworks/Libraries and applications. We're constantly working on projects one way or another which you can see in our Discord channel up above. Feel free to join along and hangout.
+
 ### Contributing
 ___
 
