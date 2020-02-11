@@ -1,4 +1,4 @@
-[![Discord](https://i.imgur.com/yWhCba0.png)](https://discord.gg/uHCTFhn)
+[![Discord](https://i.imgur.com/yWhCba0.png)](https://discord.gg/r4fhxsZ)
 
 ### What is the Discord+ API?
 ___
