@@ -12,7 +12,7 @@ Although they do not exist currently, we offer an incredible amount of documenta
 ### Support
 ___
 
-Looking to get support for something? Join the Discord above to get help and discuss with others!
+Need help? There are plenty of developers available to help you in our Discord embeded in the image above.
 
 ### DVINITY
 ___
