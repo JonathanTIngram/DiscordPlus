@@ -3,7 +3,7 @@
 ### What is the Discord+ API?
 ___
 
-Imagine having to write tens of thousands of lines of code to give your project low-to-mid level functionallity... Well, we've taken care of that for you! Now it's easier than ever to begin working directly with numerous databases, other apis, and much more!
+Imagine having to write tens of thousands of lines of code to give your project low-to-mid level functionallity... Well, we've taken care of that for you! After many hours of keyboard-mashing, we've made it easier than ever for you to: access numerous databases, retrieve and parse data from tweets, websites, emails, etc., commence email verification, commence email blasts, interact with Discord JDA without the clutter, access PayPal services, and much more!
 .
  
 Looking for the javadocs? 
