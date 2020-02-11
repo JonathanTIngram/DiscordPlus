@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2020 Christian Larcomb, Jonathan Ingram, and the DiscordPlus contributors
+ * Copyright 2019-2020 Christian Larcomb, Jonathan Ingram, Delmond Wyllis, and the DiscordPlus contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
