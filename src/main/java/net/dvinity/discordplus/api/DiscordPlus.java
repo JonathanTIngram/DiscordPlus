@@ -31,6 +31,7 @@ public interface DiscordPlus
     * to merge with Coles. 
     *
     * Hello, Cole was here.
+    * It's ya boi Jon
     *
     * @return
     */
