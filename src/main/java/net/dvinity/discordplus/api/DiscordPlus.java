@@ -28,7 +28,9 @@ public interface DiscordPlus
     * The version of DiscordPlus.
     *
     * I'm working in the development branch and attempting
-    * to merge with Coles.
+    * to merge with Coles. 
+    *
+    * Hello, Cole was here.
     *
     * @return
     */
