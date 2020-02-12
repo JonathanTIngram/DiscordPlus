@@ -88,8 +88,6 @@ public class MongoDB
     /*
      * Retrieves the Mongo Database.
      *
-     * @see
-     *
      * @since 1.0
      *
      * @param connectionString
